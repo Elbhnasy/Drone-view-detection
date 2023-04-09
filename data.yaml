@@ -1,0 +1,54 @@
+names:
+- airport
+- baseball-diamond
+- basketball-court
+- beach
+- bridge
+- chaparral
+- church
+- circular-farmland
+- cloud
+- commercial-area
+- dense-residential
+- desert
+- forest
+- freeway
+- golf-course
+- ground-track-field
+- harbor
+- industrial-area
+- intersection
+- island
+- lake
+- meadow
+- medium-residential
+- mobile-home-park
+- mountain
+- overpass
+- palace
+- parking-lot
+- railway-line
+- railway-station
+- rectangular-farmland
+- river
+- roundabout
+- runway
+- sea-ice
+- snowberg
+- sparse-residential
+- stadium
+- storage-tank
+- tennis-court
+- terrace
+- thermal-power-plant
+- wetland
+nc: 43
+roboflow:
+  license: CC BY 4.0
+  project: yolo-v8-azgxm
+  url: https://universe.roboflow.com/ahmed-iftikhar-qtxyw/yolo-v8-azgxm/dataset/2
+  version: 2
+  workspace: ahmed-iftikhar-qtxyw
+test: ../test/images
+train: yolo-v8--2/train/images
+val: yolo-v8--2/valid/images
