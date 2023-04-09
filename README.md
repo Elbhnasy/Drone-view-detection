@@ -42,3 +42,8 @@ research in the field of satellite image analysis. We believe that the proposed 
 ![confusion_matrix](https://user-images.githubusercontent.com/63622300/230791922-ff5490ce-42f5-4222-9216-d64ec82da108.png)
 #### R_curve
 ![R_curve](https://user-images.githubusercontent.com/63622300/230791989-5b9a133e-96a1-4e52-809e-1fcb83737db0.png)
+
+### Tensorbord
+![Screenshot from 2023-04-09 16-43-50](https://user-images.githubusercontent.com/63622300/230792144-57b9dc54-9b18-4c26-b1e9-baef5f4e6b04.png)
+
+
