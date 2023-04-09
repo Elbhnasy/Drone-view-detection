@@ -37,3 +37,7 @@ research in the field of satellite image analysis. We believe that the proposed 
 #### output
 ![Screenshot from 2023-04-09 21-03-22](https://user-images.githubusercontent.com/63622300/230791782-542c9d3a-1f04-476e-921d-fc8064337233.png)
 
+### accuracy
+#### Confusion_matrix
+![confusion_matrix](https://user-images.githubusercontent.com/63622300/230791922-ff5490ce-42f5-4222-9216-d64ec82da108.png)
+#### R_curve
