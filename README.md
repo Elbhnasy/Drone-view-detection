@@ -41,3 +41,4 @@ research in the field of satellite image analysis. We believe that the proposed 
 #### Confusion_matrix
 ![confusion_matrix](https://user-images.githubusercontent.com/63622300/230791922-ff5490ce-42f5-4222-9216-d64ec82da108.png)
 #### R_curve
+![R_curve](https://user-images.githubusercontent.com/63622300/230791989-5b9a133e-96a1-4e52-809e-1fcb83737db0.png)
